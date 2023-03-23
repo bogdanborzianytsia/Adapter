@@ -1,0 +1,6 @@
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.Form1.resources
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
